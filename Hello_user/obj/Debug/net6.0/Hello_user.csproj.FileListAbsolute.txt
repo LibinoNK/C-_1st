@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/bin/Debug/net6.0/Hello_user
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/bin/Debug/net6.0/Hello_user.deps.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/bin/Debug/net6.0/Hello_user.runtimeconfig.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/bin/Debug/net6.0/Hello_user.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/bin/Debug/net6.0/Hello_user.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/refint/Hello_user.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/Hello_user.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_user/obj/Debug/net6.0/ref/Hello_user.dll
