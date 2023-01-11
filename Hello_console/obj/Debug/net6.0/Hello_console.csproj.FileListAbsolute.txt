@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/bin/Debug/net6.0/Hello_console
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/bin/Debug/net6.0/Hello_console.deps.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/bin/Debug/net6.0/Hello_console.runtimeconfig.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/bin/Debug/net6.0/Hello_console.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/bin/Debug/net6.0/Hello_console.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/refint/Hello_console.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/Hello_console.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Hello_console/obj/Debug/net6.0/ref/Hello_console.dll
