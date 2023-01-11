@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/bin/Debug/net6.0/Magic
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/bin/Debug/net6.0/Magic.deps.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/bin/Debug/net6.0/Magic.runtimeconfig.json
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/bin/Debug/net6.0/Magic.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/bin/Debug/net6.0/Magic.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/refint/Magic.dll
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.pdb
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/Magic.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/C#/Lection_1/Magic/obj/Debug/net6.0/ref/Magic.dll
